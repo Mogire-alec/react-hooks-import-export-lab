@@ -1,5 +1,7 @@
 import React from "react";
-import image from "../images/demo.png";
+//import image from "../images/demo.png";
+import { image } from "../data/user";
+
 
 function About() {
   return (
